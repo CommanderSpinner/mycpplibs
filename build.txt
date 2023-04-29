@@ -1,3 +1,0 @@
-#!/bin/sh
-g++ -c main.cpp
-g++ -o prog main.o -L. -lSDL2
